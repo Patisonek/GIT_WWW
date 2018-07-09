@@ -10,4 +10,4 @@ Demo GIT
 > Added to master again
 
 
-> Never give up!
+> bya bya maszkaro
