@@ -1,7 +1,7 @@
 # GIT_WWW
 Demo GIT
 
-> My code for the git project 2018
+> My scare merge conflict code
 
 ## I'm in the feature branch
 
