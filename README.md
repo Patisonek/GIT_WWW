@@ -2,7 +2,7 @@
 Demo GIT
 
 
-> My future is in JAPAN
+> My scare merge conflic code is now
 
 
 ## I'm in the feature branch
